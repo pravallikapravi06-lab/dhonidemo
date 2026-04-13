@@ -1,0 +1,9 @@
+{
+	"name": "PraviADF",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45ae44e5-abab-4641-aaef-7c05c638196b",
+		"tenantId": "71cda416-aadf-403e-b160-a12bb06d099c"
+	}
+}
